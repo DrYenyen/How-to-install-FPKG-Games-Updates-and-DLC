@@ -32,7 +32,7 @@ Another example Resident Evil 2, USA is *CUSA09193* while Asia is *PLAS10335*
 # Retail PKG files cannot be used on FKPGS! But FPKGS can be installed onto Retail PKGS.       
        
      
-#FPKGS cannot run with updates downloaded from Orbis-Patches!!!   
+# FPKGS cannot run with updates downloaded from Orbis-Patches!!!   
 
 # Firmaware required for games                                                                                                                                                                                                             
 Retail and FPKG games their updates and dlc have a minimum firmware version that they can run on although FPKGS usually have backports which means they can run on lower firmware than the retail versions.         
